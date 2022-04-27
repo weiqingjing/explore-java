@@ -10,10 +10,6 @@ import java.util.List;
  */
 public class FilteringApplesBefore {
 
-    static List<Apple> inventory = Arrays.asList(new Apple(80, "green"),
-        new Apple(155, "green"),
-        new Apple(120, "red"));
-
     public static List<Apple> filterGreenApples(List<Apple> inventory) {
         List<Apple> result = new ArrayList<>();
         for (Apple apple : inventory) {
@@ -35,8 +31,8 @@ public class FilteringApplesBefore {
     }
 
     public static void main(String[] args) {
-        System.out.println("filter green apples:"+filterGreenApples(inventory));
-        System.out.println("filter heavy apples:"+filterHeavyApples(inventory));
+        System.out.println("filter green apples:" + filterGreenApples(AppleFactory.inventory));
+        System.out.println("filter heavy apples:" + filterHeavyApples(AppleFactory.inventory));
     }
 
 }
