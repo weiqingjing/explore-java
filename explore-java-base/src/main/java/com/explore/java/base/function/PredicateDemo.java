@@ -1,4 +1,4 @@
-package com.explore.java.base.function.predicate;
+package com.explore.java.base.function;
 
 import java.util.ArrayList;
 import java.util.Arrays;
