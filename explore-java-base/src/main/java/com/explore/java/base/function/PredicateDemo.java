@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 /**
- * 表示一个涉及类型T的布尔表达式时，就可以使用 Predicate
+ * 如果要表示一个涉及类型T的布尔表达式时，就可以使用 Predicate
  *
  * @author weiqingjing@jd.com
  * @date 2022/5/10 10:59 AM
@@ -26,6 +26,6 @@ public class PredicateDemo {
     public static void main(String[] args) {
         List<Integer> arrays = Arrays.asList(1, 2, 3, 4, 5);
         List<Integer> result = filter(arrays, (Integer a) -> a > 3);
-        System.out.printf(result.toString());
+        System.out.println(result);
     }
 }
