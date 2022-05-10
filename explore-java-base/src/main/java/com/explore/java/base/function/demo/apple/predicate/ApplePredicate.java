@@ -1,6 +1,6 @@
-package com.explore.java.base.function.predicate;
+package com.explore.java.base.function.demo.apple.predicate;
 
-import com.explore.java.base.function.Apple;
+import com.explore.java.base.function.demo.apple.Apple;
 
 /**
  * @author weiqingjing@jd.com

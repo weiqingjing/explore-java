@@ -1,6 +1,4 @@
-package com.explore.java.base.function.demo;
-
-import com.explore.java.base.function.Apple;
+package com.explore.java.base.function.demo.apple;
 
 /**
  * @author weiqingjing@jd.com

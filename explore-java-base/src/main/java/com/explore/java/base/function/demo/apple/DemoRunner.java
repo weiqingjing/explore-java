@@ -1,7 +1,5 @@
-package com.explore.java.base.function.demo;
+package com.explore.java.base.function.demo.apple;
 
-import com.explore.java.base.function.Apple;
-import com.explore.java.base.function.AppleFactory;
 import java.util.List;
 
 /**

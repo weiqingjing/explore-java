@@ -1,4 +1,4 @@
-package com.explore.java.base.function;
+package com.explore.java.base.function.demo.apple;
 
 import java.util.Arrays;
 import java.util.List;
