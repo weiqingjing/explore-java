@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/27 2:08 PM
  */
 public class AppleFactory {

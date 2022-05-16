@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/27 2:10 PM
  */
 public class FilteringApplesStream {

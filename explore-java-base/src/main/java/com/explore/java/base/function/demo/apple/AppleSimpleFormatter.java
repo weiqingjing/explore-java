@@ -1,7 +1,7 @@
 package com.explore.java.base.function.demo.apple;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/27 3:02 PM
  */
 public class AppleSimpleFormatter implements AppleFormatter {

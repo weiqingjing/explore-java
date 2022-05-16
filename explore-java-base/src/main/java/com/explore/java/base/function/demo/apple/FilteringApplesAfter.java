@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/27 10:24 AM
  */
 public class FilteringApplesAfter {

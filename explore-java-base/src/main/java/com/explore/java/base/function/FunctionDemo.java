@@ -8,7 +8,7 @@ import java.util.function.Function;
 /**
  * 如果你需要定义一个Lambda,将输入的对象映射到输出，就可以使用 Function
  *
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/5/10 11:42 AM
  */
 public class FunctionDemo {
@@ -23,8 +23,23 @@ public class FunctionDemo {
     }
 
     public static void main(String[] args) {
-        List<String> arrays = Arrays.asList("lambdas", "in", "action");
-        List<Integer> result = convertMap(arrays, ((String item) -> item.length()));
-        System.out.printf(result.toString());
+//        List<String> arrays = Arrays.asList("lambdas", "in", "action");
+//        List<Integer> result = convertMap(arrays, ((String item) -> item.length()));
+//        System.out.printf(result.toString());
+
+//        List<String> l = new ArrayList<>();
+      try{
+          throw new RuntimeException("a");
+      }catch (Exception e){
+          throw e;
+      }finally {
+          throw new RuntimeException("b");
+      }
     }
+
+    public static void test(List<Object> param){
+        System.out.printf("ooo");
+    }
+
+
 }

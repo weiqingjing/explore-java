@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/19 7:49 PM
  */
 public class FutureDemo {

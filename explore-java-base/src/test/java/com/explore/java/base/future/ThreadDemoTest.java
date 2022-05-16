@@ -3,7 +3,7 @@ package com.explore.java.base.future;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/4/20 10:29 AM
  */
 class ThreadDemoTest {

@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * 把Lambda付诸实践:环绕执行模式
  *
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/5/7 6:15 PM
  */
 public class ExecuteAround {

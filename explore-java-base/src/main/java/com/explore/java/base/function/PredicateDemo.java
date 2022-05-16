@@ -8,7 +8,7 @@ import java.util.function.Predicate;
 /**
  * 如果要表示一个涉及类型T的布尔表达式时，就可以使用 Predicate
  *
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/5/10 10:59 AM
  */
 public class PredicateDemo {
