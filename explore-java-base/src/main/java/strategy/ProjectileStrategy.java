@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/5/19 9:57 AM
  */
 public class ProjectileStrategy implements DragonSlayingStrategy{

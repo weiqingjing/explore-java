@@ -11,7 +11,7 @@ package generics;
  * N Number（数值类型）
  * ? 表示不确定的 java 类型
  *
- * @author weiqingjing@jd.com
+ * @author 314654925@qq.com
  * @date 2022/5/16 9:34 PM
  */
 public class GenericsClassDemo<T> {
