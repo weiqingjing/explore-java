@@ -1,7 +1,5 @@
 package strategy;
 
-import strategy.LambdaStrategy.Strategy;
-
 /**
  * @author 314654925@qq.com
  * @date 2022/5/19 10:01 AM
