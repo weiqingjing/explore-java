@@ -1,5 +1,7 @@
 package com.explore.java.base.future;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -62,6 +64,7 @@ public class FutureDemo {
         return 30.00;
     }
 
+    @NotNull
     private Double washHairToLongTime() {
         //子线程超时
         try {

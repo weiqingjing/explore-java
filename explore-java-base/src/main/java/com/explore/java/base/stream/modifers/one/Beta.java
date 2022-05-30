@@ -1,4 +1,4 @@
-package com.explore.java.base.modifers.one;
+package com.explore.java.base.stream.modifers.one;
 
 /**
  * @author 314654925@qq.com

@@ -1,6 +1,6 @@
-package com.explore.java.base.modifers.two;
+package com.explore.java.base.stream.modifers.two;
 
-import com.explore.java.base.modifers.one.Alpha;
+import com.explore.java.base.stream.modifers.one.Alpha;
 
 /**
  * @author 314654925@qq.com
